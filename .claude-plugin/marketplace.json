@@ -1,0 +1,16 @@
+{
+  "name": "alansari-plugins",
+  "owner": { "name": "Alansari.Tech", "url": "https://alansari.tech" },
+  "metadata": { "description": "Plugins by Ali Alansari (Alansari.Tech)" },
+  "plugins": [
+    {
+      "name": "alansari-motion",
+      "source": "./plugins/alansari-motion",
+      "description": "مكتبة الموشن: 1000 حركة موشن و123 خط عربي وإنجليزي بأرقام ثابتة. قل لـClaude رقم الحركة (مثل M-016) أو الخط (FA-02) وهو يطبقها على الفيديو.",
+      "version": "1.0.0",
+      "author": { "name": "Alansari.Tech" },
+      "homepage": "https://alansariteach.github.io/motion-library/",
+      "keywords": ["motion", "video", "reels", "arabic", "fonts"]
+    }
+  ]
+}

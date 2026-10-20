@@ -16,9 +16,9 @@ The full library ships with this plugin (it updates whenever the plugin syncs):
 
 Search for the ID or name the user gave (for example grep for `M-016` or `FA-02`) and read only that entry. Do not load the whole file.
 
-Optionally, if web access is available, the newest published copy is at
-https://alansariteach.github.io/motion-library/alansari-motion-library-ar.md
-Use it only if it differs from the bundled entry.
+Optionally, if web access is available, a live per-category copy exists. Read the small index first, then only the one category file that holds the ID (never the whole library, large pages get truncated):
+https://alansariteach.github.io/motion-library/lib/INDEX.md
+Use the live copy only if it differs from the bundled entry.
 
 ## Step 2: apply it
 - Follow the entry's Spec, Duration and Easing exactly.
